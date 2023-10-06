@@ -241,6 +241,7 @@ ggplot(vancouver_trees, aes(curb, diameter)) + #this is specifying that we are p
 <!--- *****START HERE***** --->
 
 ##Research Questions 
+
   1. How does the *height_range_id* relate to the *diameter*? For example, are the larger diameter trees in a taller height group? 
   
   2. What types of species are in the neighbourhoods where UBC campus is located? 

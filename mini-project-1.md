@@ -598,18 +598,19 @@ Write the 4 questions and any additional comments below.
 
 <!--- *****START HERE***** --->
 
-\##Research Questions 1. How does the *height\_range\_id* relate to the
-*diameter*? For example, are the larger diameter trees in a taller
-height group?
+\##Research Questions
 
-1.  What types of species are in the neighbourhoods where UBC campus is
+1.  How does the *height\_range\_id* relate to the *diameter*? For
+    example, are the larger diameter trees in a taller height group?
+
+2.  What types of species are in the neighbourhoods where UBC campus is
     located?
 
-2.  How does *side\_street\_name* relate to *curb*? For example, does
+3.  How does *side\_street\_name* relate to *curb*? For example, does
     the odd numbered side of the street have more trees next to a curb
     than the even numbered side?
 
-3.  Which neighbourhood on average has the largest trees by diameter?
+4.  Which neighbourhood on average has the largest trees by diameter?
 
 <!----------------------------->
 
