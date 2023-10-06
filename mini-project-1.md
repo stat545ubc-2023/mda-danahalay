@@ -162,7 +162,13 @@ understand your data.
 
 <!-------------------------- Start your work below ---------------------------->
 
-1: vancouver\_trees 2: apt\_buildings 3: flow\_sample 4: parking\_meters
+1: vancouver\_trees
+
+2: apt\_buildings
+
+3: flow\_sample
+
+4: parking\_meters
 
 <!----------------------------------------------------------------------------->
 
@@ -594,11 +600,16 @@ Write the 4 questions and any additional comments below.
 
 \##Research Questions 1. How does the *height\_range\_id* relate to the
 *diameter*? For example, are the larger diameter trees in a taller
-height group? 2. What types of species are in the neighbourhoods where
-UBC campus is located? 3. How does *side\_street\_name* relate to
-*curb*? For example, does the odd numbered side of the street have more
-trees next to a curb than the even numbered side? 4. Which neighbourhood
-on average has the largest trees by diameter?
+height group?
+
+1.  What types of species are in the neighbourhoods where UBC campus is
+    located?
+
+2.  How does *side\_street\_name* relate to *curb*? For example, does
+    the odd numbered side of the street have more trees next to a curb
+    than the even numbered side?
+
+3.  Which neighbourhood on average has the largest trees by diameter?
 
 <!----------------------------->
 
