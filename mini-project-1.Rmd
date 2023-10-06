@@ -150,7 +150,7 @@ I chose the vancouver_trees dataset. I was most interested in this dataset becau
 1.4 **(2 points)** Time for a  final decision! Going back to the beginning, it's important to have an *end goal* in mind. For example, if I had chosen the `titanic` dataset for my project, I might've wanted to explore the relationship between survival and other variables. Try to think of 1 research question that you would want to answer with your dataset. Note it down below.
 
 <!-------------------------- Start your work below ---------------------------->
-I would like to explore The relationship between diameter and date_planted. With this I would like to find out if teh oldest trees are the largest by diameter. 
+I would like to explore the relationship between diameter and date_planted. With this I would like to find out if the oldest trees are the largest by diameter. 
 <!----------------------------------------------------------------------------->
 
 # Important note

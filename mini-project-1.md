@@ -429,8 +429,8 @@ dataset. Note it down below.
 
 <!-------------------------- Start your work below ---------------------------->
 
-I would like to explore The relationship between diameter and
-date\_planted. With this I would like to find out if teh oldest trees
+I would like to explore the relationship between diameter and
+date\_planted. With this I would like to find out if the oldest trees
 are the largest by diameter.
 <!----------------------------------------------------------------------------->
 
