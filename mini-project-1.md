@@ -539,9 +539,9 @@ in the 1990s like I had expected.
 
 Here I will be filtering the vancouver\_trees tibble and making a tibble
 of all of the trees in downtown Vancouver. I will be doing this by
-filtering the *neighbourhood\_name* to be downtown, and selecting the
-*tree\_id”, *genus\_name*, *species\_name*, *cultivar\_name*, and
-*common\_name\* variables. I have noticed that downtown has a lot of
+filtering the *neighbourhood\_name* to be *DOWNTOWN*, and selecting the
+*tree\_id*, *genus\_name*, *species\_name*, *cultivar\_name*, and
+*common\_name* variables. I have noticed that downtown has a lot of
 greenery compared to the downtown of other cities, like Toronto, so I am
 curious about the trees that are planted here and will be using this
 tibble to explore that.

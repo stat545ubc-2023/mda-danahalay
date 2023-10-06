@@ -205,7 +205,7 @@ ggplot(vancouver_trees, aes(date_planted, diameter)) + #this is specifying that 
 
 ###  Make a new tibble with a subset of the data
 
-Here I will be filtering the vancouver_trees tibble and making a tibble of all of the trees in downtown Vancouver. I will be doing this by filtering the *neighbourhood_name* to be downtown, and selecting the *tree_id", *genus_name*, *species_name*, *cultivar_name*, and *common_name* variables. I have noticed that downtown has a lot of greenery compared to the downtown of other cities, like Toronto, so I am curious about the trees that are planted here and will be using this tibble to explore that. 
+Here I will be filtering the vancouver_trees tibble and making a tibble of all of the trees in downtown Vancouver. I will be doing this by filtering the *neighbourhood_name* to be *DOWNTOWN*, and selecting the *tree_id*, *genus_name*, *species_name*, *cultivar_name*, and *common_name* variables. I have noticed that downtown has a lot of greenery compared to the downtown of other cities, like Toronto, so I am curious about the trees that are planted here and will be using this tibble to explore that. 
 
 ```{r}
 downtown_vancouver_trees <- vancouver_trees %>% #this giving the new tibble a name 
