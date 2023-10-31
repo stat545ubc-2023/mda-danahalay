@@ -4,7 +4,11 @@
   * Dana Halay
 
 ## Repository Description 
-This repository is an individual mini-data analysis project for the University of British Columbia course STAT 545A. It's purpose is to explore datasets in the *datateachr* package using *dplyr* and *ggplot2* for analysis. 
+This repository is an individual mini-data analysis project for the University of British Columbia course STAT 545A. The analysis project has two milestones. 
+  * #### Milestone 1
+       * The purpose of this milestone is to explore datasets in the *datateachr* package using *dplyr* and *ggplot2* for analysis.
+  * #### Milestone 2
+       * The purpose of this milestone is to make summary tables and graphs, manipulate special data types in R, fit a model to my data and extract a result, read and write data as separate files, and explore the concept of tidy data. 
 
 ## How to Engage with the Repository 
 In the below section, you can find a description of all of the files in the repository. You can run code from this repository in Rstudio using the url for the repository, and selecting the file you would like to run from Rstudio. 
