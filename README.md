@@ -15,10 +15,19 @@ In the below section, you can find a description of all of the files in the repo
 
 ## Files in the Repository  
   * #### README.md ####
-      * This file includes an explanation of the repository, including an overview and an explanation of the files 
-  * #### mini-project-1.Rmd ####
-      * This file is the given file for the project which was filled in for completion of the Milestone 1 assignment
-  * #### mini-project-1.md ####
-      * This file is the knitted output of the mini-project-1.Rmd file 
-
-
+     * This file includes an explanation of the repository, including an overview and an explanation of the files
+  * #### Milestone 1 Folder ####
+     * ##### mini-project-1.Rmd #####
+          * This file is the given file for the project which was filled in for completion of the Milestone 1 assignment
+     * #### mini-project-1.md ####
+          * This file is the knitted output of the mini-project-1.Rmd file 
+ * #### Milestone 2 Folder ####
+     * ##### mini-project-2.Rmd #####
+          * This file is the given file for the project which was filled in for completion of the Milestone 2 assignment
+     * ##### mini-project-1.md #####
+          * This file is the knitted output of the mini-project-2.Rmd file 
+* #### Output Folder ####
+     * ##### Q1_summary.csv #####
+          * This file is the cvs file of a summary table from Milestone 2
+     * ##### model_fit.rds #####
+          * This file is the R binary file of a model object from Milestone 2
